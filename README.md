@@ -31,7 +31,12 @@ Identifying key factors that contribute to employee turnover.
   - Sheet 4: Charts
 
 ## 💡 Key Findings
-- Coming soon
+- Overall attrition rate: **16.1%** (237 out of 1,470 employees)
+- **Sales** department has the highest turnover rate at 20.6%
+- Employees who leave are **4 years younger** on average (33.6 vs 37.6)
+- Employees who leave earn **30% less** ($4,787 vs $6,832/month)
+- **53.6%** of employees working overtime tend to leave
+- Lower job satisfaction strongly correlates with attrition
 
 ---
 *Part of my [Data Analytics Portfolio](https://github.com/eleazarsoto/data-analytics-portfolio)*
