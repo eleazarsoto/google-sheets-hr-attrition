@@ -40,7 +40,7 @@ Identifying key factors that contribute to employee turnover.
 
 - ## 📊 Dashboard Preview
 
-![Dashboard](images)
+![Dashboard](Gráficos 1)
 
 ![Pivot Tables](images/pivot_tables.png)
 
