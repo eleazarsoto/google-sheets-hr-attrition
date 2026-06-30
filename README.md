@@ -38,6 +38,12 @@ Identifying key factors that contribute to employee turnover.
 - **53.6%** of employees working overtime tend to leave
 - Lower job satisfaction strongly correlates with attrition
 
+- ## 📊 Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
+![Pivot Tables](images/pivot_tables.png)
+
 ---
 *Part of my [Data Analytics Portfolio](https://github.com/eleazarsoto/data-analytics-portfolio)*
 ```
