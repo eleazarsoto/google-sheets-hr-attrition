@@ -42,7 +42,7 @@ Identifying key factors that contribute to employee turnover.
 
 [![Dashboard](Gráficos1)](https://github.com/eleazarsoto/google-sheets-hr-attrition/tree/main/images)
 
-![Pivot Tables](Tabladinámica1)
+[![Pivot Tables](Tabladinámica1)](https://github.com/eleazarsoto/google-sheets-hr-attrition/tree/main/images)
 
 ---
 *Part of my [Data Analytics Portfolio](https://github.com/eleazarsoto/data-analytics-portfolio)*
