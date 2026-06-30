@@ -42,7 +42,7 @@ Identifying key factors that contribute to employee turnover.
 
 ![Dashboard](Gráficos 1)
 
-![Pivot Tables](images/pivot_tables.png)
+![Pivot Tables](Tabla dinámica 1)
 
 ---
 *Part of my [Data Analytics Portfolio](https://github.com/eleazarsoto/data-analytics-portfolio)*
